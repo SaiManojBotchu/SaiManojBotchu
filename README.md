@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaiManojBotchu](https://github.com/SaiManojBotchu)
-
 - 📫 How to reach me **saimanoj2826@gmail.com**
 
 
